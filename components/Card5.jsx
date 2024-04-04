@@ -3,7 +3,7 @@ import './Card.css'
 function Card5() {
   return (
     <>
-      <div  className='container scroll d-flex ms-5 me-4 '> 
+      <div  className='container scroll d-flex m-5 '> 
     
        
         
