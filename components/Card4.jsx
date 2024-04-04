@@ -4,7 +4,7 @@ import './Card.css'
 function Card4() {
   return (
     <>
-    <div className=' scroll  d-flex ms-4'>
+    <div className=' scroll  d-flex ms-5'>
      <div>
        <Card style={{ width: '19rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSH7012-07-328.jpg?v=1711517032" />
