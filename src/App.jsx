@@ -46,7 +46,7 @@ function App() {
      <Card2/>
 
      <div className='d-flex justify-content-center align-items-center m-5'>
-    <a className='buttondesign1' style={{marginRight:"10px"}} href="">SHIRTS</a>
+    <a className='buttondesign1' style={{marginRight:"15px"}} href="">SHIRTS</a>
     <a className='buttondesign' style={{marginRight:"10px"}} href="">T-SHIRTS</a>
     <a className='buttondesign' style={{marginRight:"10px"}} href="">JEANS</a>
     <a className='buttondesign' style={{marginRight:"10px"}} href="">TROUSERS</a>
