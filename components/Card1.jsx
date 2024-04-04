@@ -6,7 +6,7 @@ function Card1() {
     <>
      <div  className=' d-flex me-5 ms-5 scroll'>
      <div>
-       <Card style={{ width: '15.5rem',marginLeft:'20px' }}>
+       <Card style={{ width: '17.5rem',marginLeft:'20px' }}>
         <Card.Img  variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSO4563-01-3214.jpg?v=1712045852" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSO4563-01-329.jpg?v=17120458952" />
         
@@ -17,7 +17,7 @@ function Card1() {
       
      </div>
     <div>
-      <Card style={{ width: '15.5rem' ,marginLeft:'20px'}}>
+      <Card style={{ width: '17.5rem' ,marginLeft:'20px'}}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-01-M31.jpg?v=1712042185" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-01-M25.jpg?v=1712042210" />
         
@@ -27,7 +27,7 @@ function Card1() {
      
     </div>
     <div>
-      <Card style={{ width: '15.5rem',marginLeft:'20px' }}>
+      <Card style={{ width: '17.5rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-02-M56.jpg?v=1712042328" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-02-M8.jpg?v=1712042328" />
         
@@ -37,7 +37,7 @@ function Card1() {
      
     </div>
    <div>
-      <Card style={{ width: '15.5rem',marginLeft:'20px' }}>
+      <Card style={{ width: '17.5rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-03-M22.jpg?v=1712042382" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSK8580-03-M46.jpg?v=1712042382" />
         
@@ -47,7 +47,7 @@ function Card1() {
      
    </div>
     <div>
-      <Card style={{ width: '15.5rem',marginLeft:'20px' }}>
+      <Card style={{ width: '17.5rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2735-05-M40.jpg?v=1712043728" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2735-05-M25.jpg?v=1712043728" />
         

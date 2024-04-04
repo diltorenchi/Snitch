@@ -6,7 +6,7 @@ function Card3() {
     <>
      <div  className=' scroll ms-5  d-flex'>
      <div >
-       <Card style={{ width: '19rem',marginLeft:'20px' }}>
+       <Card style={{ width: '21rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-01-M43.jpg?v=1696337750" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-01-M39.jpg?v=1696337750" />
         
@@ -17,7 +17,7 @@ function Card3() {
       
      </div>
     <div>
-      <Card style={{ width: '19rem' ,marginLeft:'20px'}}>
+      <Card style={{ width: '21rem' ,marginLeft:'20px'}}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-02-M69.jpg?v=1696337783" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-02-M40.jpg?v=1696337806" />
         
@@ -27,7 +27,7 @@ function Card3() {
      
     </div>
     <div>
-      <Card style={{ width: '19rem',marginLeft:'20px' }}>
+      <Card style={{ width: '21rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-03-M26.jpg?v=1696337867" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2364-03-M42.jpg?v=1696337867" />
         
@@ -37,7 +37,7 @@ function Card3() {
      
     </div>
    <div>
-      <Card style={{ width: '19rem',marginLeft:'20px' }}>
+      <Card style={{ width: '21rem',marginLeft:'20px' }}>
         <Card.Img variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2367-05-M38.jpg?v=1696337956" />
         <Card.Img className='backimg' variant="top" src="https://www.snitch.co.in/cdn/shop/files/4MSS2367-05-M47.jpg?v=1696337956" />
         
