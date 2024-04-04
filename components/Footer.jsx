@@ -80,7 +80,7 @@ function Footer() {
 
    </div>
 
-   <div className='text-center'>
+   <div className='text-center mt-4'>
     <h3 style={{fontFamily:'Twentieth Century, sans-serif', fontSize:'12px', lineHeight:'16.8px', letterSpacing:'0.4px'}}>© 2024 SNITCH <br /> Made in India, for the World  🌍</h3>
    </div>
     
