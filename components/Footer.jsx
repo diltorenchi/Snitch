@@ -11,7 +11,8 @@ function Footer() {
 
     <hr />
 
-   <div className="row ms-5 mt-5">
+
+    {/* <div className="row">
     <div className="col-md-3">
       <h6 style={{fontSize:'12.8px', lineHeight:'12.8px' , letterSpacing:'3.84px'}}>OFFLINE STORE</h6>
 
@@ -50,7 +51,7 @@ function Footer() {
         
       </div>
     </div>
-   </div>
+   </div>  */}
 
    <div className='ms-5 mt-5'>
     <h3 style={{fontSize:'12.8px',lineHeight:'12.8px', letterSpacing:'3.84px'}}>SIGN UP AND SAVE</h3>

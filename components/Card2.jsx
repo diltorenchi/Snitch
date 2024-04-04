@@ -5,7 +5,7 @@ function Card2() {
     <>
       <h2 style={{ fontFamily: 'Futura, sans-serif', fontSize: '30.6px', lineHeight: '30.6px', textAlign: 'center', fill: 'black', marginBottom: '40px' }}>SEASONAL FAV'S🌤️</h2>
 
-      <div className='d-flex flex-wrap justify-content-center align-items-center'> {/* Added flex-wrap, justify-content, and align-items to make the cards responsive */}
+      <div className='d-flex flex-wrap justify-content-center align-items-center'> 
         <div className="card1 m-3">
           <img className='img1' src="https://www.snitch.co.in/cdn/shop/files/4MST2235-01-M24.jpg?v=1704366399&width=540" alt="" />
           <div className="intro">
