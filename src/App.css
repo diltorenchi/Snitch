@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    
+    
+    
+    
+  }
+  body{
+    overflow-x: hidden;
+  }
+
+  .nav{
+   position: fixed;
+    z-index: 1;
+    
+  }
+
+  .navbar{
+    background-color: white;
+    
+    
+  }
+
+
+
+
+
+.buttondesign{
+    text-decoration: none;
+    border: solid black;
+    border-radius: 16px;
+    padding: 4px;
+   font-size: 16px;
+   line-height: 22.4px;
+   letter-spacing: 0.4px;
+   text-align: start;
+   fill: black;
+   background: white;
+   color: black;
+   font-family:"Twentieth Century", sans-serif;
+   border-width: thin;
+}
+.buttondesign1{
+    text-decoration: none;
+    border: solid black;
+    border-radius: 16px;
+    padding: 4px;
+   font-size: 16px;
+   line-height: 22.4px;
+   letter-spacing: 0.4px;
+   text-align: start;
+   fill: white;
+   background: black;
+   color: white;
+   font-family:"Twentieth Century", sans-serif;
+}
+     
+.viewbutton{
+    text-decoration: none;
+    border: solid lightgrey;
+    border-width: thin;
+    padding: 9px;
+    font-family: "Twentieth Century", sans-serif;
+    font-size: 12px;
+    line-height: 17.04px;
+    text-align: center;
+    letter-spacing: 3.6px;
+    fill: black;
+    background-color: white;
+   color: black;
+   
+}
+.viewbutton:hover{
+    text-decoration: none;
+    border: solid;
+    border-width: thin;
+    padding: 9px;
+    font-family: "Twentieth Century", sans-serif;
+    font-size: 12px;
+    line-height: 17.04px;
+    text-align: center;
+    letter-spacing: 3.6px;
+    fill: black;
+    background-color: white;
+    color: black;
+   
+}
+
+
+
+.img1{
+    height: 462px;
+   position: relative;
+    border-radius: 20px;
+
+}
+.img2{
+    height: 460px;
+   background-color: gray;
+   transition:.2s all ease;
+
+}
+.img2:hover{
+
+ transform: scale(1.02);
+   
+}
+
+
+.backimg{
+    position: absolute;
+    opacity: 0;
+    transition: all .2s ease;
+}
+
+.backimg:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+
+.intro{
+    color: white;
+   
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 60px;
+   
+    
+}
+
+
+
+
+
+.intro h2{
+  font-size:20px;
+  line-height: 20px;
+  fill: white;
+  font-family: "Futura, sans-serif";
+  font-weight: 900;
+  
+}
+.intro1{
+    color: white;
+   
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom:70px;
+    
+}
+
+.intro1 h2{
+  font-size:22px;
+  line-height: 20px;
+  fill: black;
+  color: white;
+  font-family: "Futura, sans-serif";
+  font-weight: 500;
+  
+}
+
+.card1{
+    height: 510px;
+    background: white;
+    fill: black;
+    overflow: hidden;
+    transition:160ms;
+    position: relative;
+    
+}
+.card1:hover{
+    transform: scale(1.05);
+   cursor: pointer;
+   
+
+}
+.card2{
+    height: 510px;
+    background: white;
+    fill: black;
+    overflow: hidden;
+   
+    position: relative;
+    
+}
+
+.navimg{
+    width: 15%;
+    margin-left: 530px;
+}
+
+
+
+@media  (max-width: 768px) {
+    
+    
+    .scroll{
+        overflow-x: scroll;
+        
+    } 
+
+    .nav{
+        width: 100%;
+    }
+    .navbar{
+        background-color: white;
+        width: 100%;
+        
+        
+      }
+
+      .navimg{
+        margin-left: 100px;
+        width: 30%;
+      }
+
+     
+   
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px){
+    .nav{
+        width: 100%;
+    }
+    .navbar{
+        background-color: white;
+        width: 100%;
+        
+        
+      }
+
+      .navimg{
+        margin-left: 230px;
+        width: 30%;
+      }
+    
+}
+
+
+@media (max-width: 480px) {
+    .nav{
+        width: 100%;
+    }
+    .navbar{
+        background-color: white;
+        width: 100%;
+        
+        
+      }
+
+      .navimg{
+        margin-left: 100px;
+        width: 30%;
+      }
+    
+    
+}
+  
